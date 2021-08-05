@@ -17,3 +17,7 @@ C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\obj\Release\netcoreapp3
 C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\obj\Release\netcoreapp3.1\DesktopClock.pdb
 C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\obj\Release\netcoreapp3.1\DesktopClock.genruntimeconfig.cache
 C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\obj\Release\netcoreapp3.1\DesktopClock.csproj.AssemblyReference.cache
+C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\bin\Release\netcoreapp3.1\DesktopClock.dll.manifest
+C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\bin\Release\netcoreapp3.1\DesktopClock.application
+C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\obj\Release\netcoreapp3.1\DesktopClock.dll.manifest
+C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\obj\Release\netcoreapp3.1\DesktopClock.application

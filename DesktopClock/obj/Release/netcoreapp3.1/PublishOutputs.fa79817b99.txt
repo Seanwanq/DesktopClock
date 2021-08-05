@@ -1,0 +1,5 @@
+C:\Users\seanw\OneDrive\Desktop\DesktopClock\DesktopClock.exe
+C:\Users\seanw\OneDrive\Desktop\DesktopClock\DesktopClock.dll
+C:\Users\seanw\OneDrive\Desktop\DesktopClock\DesktopClock.deps.json
+C:\Users\seanw\OneDrive\Desktop\DesktopClock\DesktopClock.runtimeconfig.json
+C:\Users\seanw\OneDrive\Desktop\DesktopClock\DesktopClock.pdb

@@ -1,0 +1,5 @@
+C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\bin\Release\netcoreapp3.1\publish\DesktopClock.exe
+C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\bin\Release\netcoreapp3.1\publish\DesktopClock.dll
+C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\bin\Release\netcoreapp3.1\publish\DesktopClock.deps.json
+C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\bin\Release\netcoreapp3.1\publish\DesktopClock.runtimeconfig.json
+C:\Users\seanw\projects\csharp\DesktopClock\DesktopClock\bin\Release\netcoreapp3.1\publish\DesktopClock.pdb
