@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmhUeleUwXt8pDgBDclgt7I3rBuMBPHiYqE/nSO03PkVz6JzzctWj1dB8t05nrcgF6b37hyY3G8a4YzoBvkPBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seanw\\projects\\csharp\\DesktopClock\\DesktopClock\\DesktopClock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seanw\\.nuget\\packages\\ilmerge\\3.0.41\\ilmerge.3.0.41.nupkg.sha512"
+  ],
+  "logs": []
+}
